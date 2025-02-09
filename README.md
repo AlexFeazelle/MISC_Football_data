@@ -1,3 +1,2 @@
-# D2 Football Data
-
-Repo for the csv related to Division II Football, GSC (Gulf South Conference) as of right now. 
+# MISC Football Data
+Lower - Level Data Acquisition Project, focused on FCS,DII,DIII,NAIA, & JUCO American Football
